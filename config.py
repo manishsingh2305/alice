@@ -14,7 +14,7 @@ API_HASH = "b7c1f8bf146188cd80c58541e4ed46c7"
 BOT_TOKEN = "8155616469:AAFOzPqbWoylW1Myc8vS8vYuFAQz1AYjnt0"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://Soul:JYAuvlizhw7wqLOb@soul.tsga4.mongodb.net"
+MONGO_DB_URI = "mongodb+srv://manishbusiness2305:<REDARDO2305>@cluster0.bw67v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/KalkiGamesYT"
-SUPPORT_GROUP = "https://t.me/KalkiGamesYT"
+SUPPORT_CHANNEL = "https://t.me/+L0-E4XFnNlM0NTU1"
+SUPPORT_GROUP = "https://t.me/+L0-E4XFnNlM0NTU1"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
