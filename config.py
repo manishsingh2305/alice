@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://officialrishabhverma:<Redardo2305>@cluster0.6n4tx.
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002277396201
+LOG_GROUP_ID = -1002416471139
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 6829753965
@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/rishabhops/alice",
+    "https://github.com/manishsingh2305/alice",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
